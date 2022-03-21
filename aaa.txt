@@ -1,0 +1,12 @@
+git push https://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@github.com/longpost/python-blog.git
+echo "# python-littlegame" >> README.md
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/longpost/python-littlegame.git
+
+#git push -u origin main
+
+git push https://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@github.com/longpost/python-blog.git
